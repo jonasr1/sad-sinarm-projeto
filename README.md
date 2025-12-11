@@ -1,6 +1,6 @@
 # Projeto SAD – Integração e Análise de Dados do SINARM
 
-Este repositório contém a estrutura completa de processamento, integração, organização, modelagem analítica e visualização de dados utilizada para o projeto **SAD (Sistema de Análise de Dados)** baseado em informações do **SINARM**.
+Este repositório contém a estrutura completa de processamento, integração, organização, modelagem analítica e visualização de dados utilizada para o projeto **SAD [(Sistema de Análise de Dados)](https://app.powerbi.com/view?r=eyJrIjoiMjQ5MGI2NTctNjMzOC00YWMwLWE5MDUtMWJkNjE3YTRjMmM5IiwidCI6ImE2Zjc0ZWZhLTM2NzQtNDQ5YS1hY2FlLWMwYTIzODYzNzUwNCJ9)** baseado em informações do **SINARM**.
 
 O objetivo é fornecer um ambiente organizado para:
 
@@ -86,6 +86,6 @@ O projeto foca na análise histórica dos portes de arma de fogo emitidos no Bra
   <img width="834" height="481" alt="image" src="https://github.com/user-attachments/assets/2c268772-d182-48e7-9a04-d68aa5dee592" />
 </p>
 
-## 📄 Documentação Completa
+## 📄 Apresentação Completa
 
 Para visualizar a apresentação completa, [clique aqui](https://github.com/user-attachments/files/24108224/Documentacao-SAD.pdf) e faça o download.
