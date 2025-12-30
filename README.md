@@ -71,7 +71,7 @@ O projeto foca na análise histórica dos portes de arma de fogo emitidos no Bra
 ### Visão Geral
 
 <p align="center">
-  <img width="841" height="475" alt="image" src="https://github.com/user-attachments/assets/0df5f46f-74fe-45eb-92a1-452df22089cb" />
+  <img width="867" height="493" alt="image" src="https://github.com/user-attachments/assets/f0272b9f-3f19-4113-b57b-5e7e4f2553bf" />
 </p>
 
 ### Arma
